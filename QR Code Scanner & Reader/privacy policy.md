@@ -66,6 +66,19 @@ We do not sell, trade, or share your data with third parties. However, the app m
 
 - Select from three available themes to customize your app experience.
 
+## In App Purchases
+
+QR Code Scanner & Reader offers a one-time purchase option that provides additional features on the device where the app is installed. This purchase:
+
+- Is processed through the official app store (Google Play Store)
+- Is non-recurring and only charged once
+- Provides premium features only on the device where the purchase was made
+- Does not collect any additional personal information beyond what the app store requires for transaction processing
+
+Payment information is handled entirely by the app store platform (Google Play) and not by Appo Soft. We do not have access to your payment details or billing information.
+
+The purchase status is stored locally on your device and may be restored if you reinstall the app on the same device or account.
+
 ## Data Security
 
 We prioritize the security of your data. The app is designed to minimize the collection and storage of sensitive information. However, we cannot guarantee complete security due to the nature of digital applications.
