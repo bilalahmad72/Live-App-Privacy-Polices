@@ -78,8 +78,8 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have any questions about this Privacy Policy or the app's practices, feel free to contact us at:
 
-**Developer Name**: Appo Soft  
-**Email**: [support@apposoft.com](mailto:support@apposoft.com)
+**Developer Name**: Bilal Ahnmad  
+**Email**: [support@apposoft.com](mailto:bilalahmad72.official@gmail.com)
 
 ---
 
